@@ -6,6 +6,7 @@ The questions I am interested in answering are: How do demographics differ over 
 
 ## Data:
 cahoots_data.csv –– main CSV with all the call log information
+
 Eugene-SpringfieldCensus.csv –– Census data, downloaded from [this](https://www.census.gov/quickfacts/fact/table/springfieldcityoregon,eugenecityoregon/POP060210) website.
 
 ### Required Libraries: 
