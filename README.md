@@ -9,8 +9,25 @@ cahoots_data.csv –– main CSV with all the call log information
 
 Eugene-SpringfieldCensus.csv –– Census data, downloaded from [this](https://www.census.gov/quickfacts/fact/table/springfieldcityoregon,eugenecityoregon/POP060210) website.
 
+## Data cleaning/processing steps [20 points]
+•	Imported CSV into Jupyter Notebook
+•	Dropped ‘Language’ column
+•	Converted entries in ‘Gender’ column to be consistent (changed FEMALE to Female, etc..)
+•	Made bar graphs to display distributions and frequencies of each columns in the dataset
+•	Made visualizations for:
+o	Gender breakdown for calls by month
+o	Age breakdown, after dividing ages into various ranges
+o	Call volume by hour AND month
+o	Most/least frequent call hour sorted by month
+o	Heatmap of frequency of calls by hour & month
+o	Boxplot of age distribution by reason for dispatch
+
+## Methods:
+![Picture1](https://github.com/ms126/dsci410/assets/109988475/2d99f24e-2d4b-41fd-9f8c-363e69b2ffd0)
+
 ### Required Libraries: 
 NumPy, Pandas, Seaborn, Scipy, Matplotlib
+
 
 
 
